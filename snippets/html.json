@@ -2,15 +2,15 @@
     "include": {
         "prefix": "dcs include",
         "body": [
-            "<script type=\"text/javascript\" src=\"http://www.dynamsoft.com/library/dcs/dynamsoft.camera.min.js\"> </script>"
+            "<script type=\"text/javascript\" src=\"https://www.dynamsoft.com/library/dcs/dynamsoft.camera.min.js\"> </script>"
         ],
         "description": "Include Dynamsoft Webcam JavaScript library."
     },
     "full sample": {
         "prefix": "dcs full sample",
         "body": [
-            "<!DOCTYPE html>\n<head>\n\t<title>Hello World</title>",
-            "\t<script type=\"text/javascript\" src=\"http://www.dynamsoft.com/library/dcs/dynamsoft.camera.min.js\"> </script>\n</head>\n\n<body>",
+            "<!DOCTYPE html>\n<html>\n<head>\n\t<title>Hello World</title>",
+            "\t<script type=\"text/javascript\" src=\"https://www.dynamsoft.com/library/dcs/dynamsoft.camera.min.js\"> </script>\n</head>\n\n<body>",
             "\t<h1>Dynamsoft Webcam SDK: Hello World</h1>",
             "\t<select size=\"1\" id=\"source\" width=\"220px\" onchange=\"onSourceChanged()\"></select>",
             "\t<input type=\"button\" value=\"Capture\" onclick=\"onCapture();\" />\n",

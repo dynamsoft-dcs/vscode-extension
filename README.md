@@ -43,7 +43,7 @@ Use the prefix **dcs** to list the code snippets in **HTML** files.
     <div id="video-container"> </div>
     <div id="image-container"> </div>
 
-    <script type="text/javascript" src="http://www.dynamsoft.com/library/dcs/dynamsoft.camera.min.js">
+    <script type="text/javascript" src="https://www.dynamsoft.com/library/dcs/dynamsoft.camera.min.js">
     </script>
     <script>
         var dcsObject, imageViewer;
@@ -104,8 +104,8 @@ Use the prefix **dcs** to list the code snippets in **HTML** files.
 </html>
 ```
 
-[1]:http://www.dynamsoft.com/Products/dynamsoft-webcam-sdk.aspx
-[2]:http://www.dynamsoft.com/Products/webcam-sdk-features.aspx
-[3]:http://www.dynamsoft.com/Downloads/dynamsoft-webcam-sdk-sample-download.aspx
-[4]:http://www.dynamsoft.com/Products/webcam-sdk-news.aspx
+[1]:https://www.dynamsoft.com/Products/dynamsoft-webcam-sdk.aspx
+[2]:https://www.dynamsoft.com/Products/webcam-sdk-features.aspx
+[3]:https://www.dynamsoft.com/Downloads/dynamsoft-webcam-sdk-sample-download.aspx
+[4]:https://www.dynamsoft.com/Products/webcam-sdk-news.aspx
 [5]:http://developer.dynamsoft.com/dws
